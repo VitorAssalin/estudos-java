@@ -1,0 +1,7 @@
+# Pastas do IntelliJ e compilação
+.idea/
+out/
+*.iml
+
+# Compilados do Java
+*.class
